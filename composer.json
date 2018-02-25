@@ -1,5 +1,5 @@
 {
-    "name": "mingalevme/illuminate-uqueue",
+    "name": "wecreatellc/illuminate-uqueue",
     "description": "Laravel/Lumen uniqueable queues (Database, Redis)",
     "keywords": [
         "laravel",
@@ -7,18 +7,18 @@
         "queue",
         "uniqueable"
     ],
-    "homepage": "https://github.com/mingalevme/illuminate-uqueue",
+    "homepage": "https://github.com/wecreatellc/illuminate-uqueue",
     "version": "0.0.1",
     "license": "MIT",
     "authors": [
         {
-            "name": "Mingalev Mikhail",
-            "email": "mingalevme@gmail.com"
+            "name": "Zach Lanich",
+            "email": "zach@zachlanich.com"
         }
     ],
     "require": {
         "php": ">=7.0",
-        "illuminate/queue": "5.5.*"
+        "illuminate/queue": ">=5.5 <5.7"
     },
     "autoload": {
         "psr-4": {
