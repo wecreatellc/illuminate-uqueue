@@ -1,5 +1,5 @@
 {
-    "name": "wecreatellc/illuminate-uqueue",
+    "name": "mingalevme/illuminate-uqueue",
     "description": "Laravel/Lumen uniqueable queues (Database, Redis)",
     "keywords": [
         "laravel",
@@ -12,8 +12,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Zach Lanich",
-            "email": "zach@zachlanich.com"
+            "name": "Mingalev Mikhail",
+            "email": "mingalevme@gmail.com"
         }
     ],
     "require": {
